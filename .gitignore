@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Images generated during runtime
+*.png
+
+# MacOS system files
+.DS_Store
+
+# Optional: virtual environment
+venv/
+env/
