@@ -36,7 +36,7 @@ from utils import log_message
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 
 def main():
-    log_message("🚀 Starting Zensar AI Data Pipeline Simulation")
+    log_message("🚀 Starting AI Data Pipeline Simulation")
 
     # Step 1: Collect Data
     collected_files = collect_data()
