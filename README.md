@@ -70,4 +70,3 @@ Collect raw data
 Monitor system logs
 
 Annotate datasets for AI training
-Ideal for learning or showcasing in interviews 🚀.
